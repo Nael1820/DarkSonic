@@ -1,0 +1,2 @@
+0 - Turn off
+1 - Turn on
