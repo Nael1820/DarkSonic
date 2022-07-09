@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "darksonic_left"
+		},
+		{
+			"offsets": [
+				-80,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "darksonic_down"
+		},
+		{
+			"offsets": [
+				-40,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "darksonic_up"
+		},
+		{
+			"offsets": [
+				-60,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "darksonic_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "darksonic_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dark_sonic",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "darksonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
