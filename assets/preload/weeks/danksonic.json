@@ -1,0 +1,41 @@
+{
+	"storyName": "Sonic's Joker Arc",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "danksonic",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Void Moon",
+			"darksonic",
+			[
+				66,
+				0,
+				60
+			]
+		],
+		[
+			"Dark Impulse",
+			"darksonic",
+			[
+				66,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "DarkSonic"
+}
